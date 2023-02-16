@@ -10,7 +10,7 @@
 4. Fully response for **1344px** (desktops) / **1200px** (landscape tablets) / **944px** (smaller landscape tablets) / **740px** (smaller tablets) / **544px** (Phones).
 
 
-https://angve-omnifood.netlify.app/
+<div align="center">https://angve-omnifood.netlify.app/</div>
 
 
 <h3 align="center">Thanks for reading this entire post.<h3>
