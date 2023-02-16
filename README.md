@@ -2,7 +2,7 @@
 
 <h2 align="center">Food ordering app.</h2>
 
-It's only design.
+<h3 align="center">It's only design.</h3>
 
 1. Modern CSS (previous CSS3), including flexbox and CSS Grid for layout.
 2. Using BEM-methodology, fully semantic.
@@ -13,4 +13,4 @@ It's only design.
 https://angve-omnifood.netlify.app/
 
 
-<h2 align="center">Thanks for reading this entire post.<h2>
+<h3 align="center">Thanks for reading this entire post.<h3>
