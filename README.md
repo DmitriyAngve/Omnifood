@@ -5,7 +5,7 @@ The website's layout is divided into several sections, including a navigation ba
 
 <h3 align="center">About App:</h3>
 
-1. Modern CSS (previous CSS3), including flexbox and CSS Grid for layout.
+1. Modern CSS, including flexbox and CSS Grid for layout.
 2. Using BEM-methodology, fully semantic.
 3. A small amount of JavaScript (for sticky navigation).
 4. Fully response for **1344px** (desktops) / **1200px** (landscape tablets) / **944px** (smaller landscape tablets) / **740px** (smaller tablets) / **544px** (Phones).
